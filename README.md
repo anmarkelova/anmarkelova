@@ -7,6 +7,6 @@
 Go to [portfolio](https://drive.google.com/file/d/1a_6qMxa1AbtjHGtKKdzrwH_FMWX7XssC/view?usp=share_link)
 
 #### 💥Сertificates
-<a href='https://github.com/anmarkelova/anmarkelova/blob/main/UiPath%20Certified%20Advanced%20RPA%20Developer%20v1.0%20certificate.pdf'><img src='https://github.com/anmarkelova/anmarkelova/blob/main/UiPath%20Certified%20Advanced%20RPA%20Developer%20v1.0%20certificate.jpg' style='width: 30%'></a><br>
-<a href='https://github.com/anmarkelova/anmarkelova/blob/main/PIX%20RPA%20Advanced%20Developer%20.pdf'><img src='https://github.com/anmarkelova/anmarkelova/blob/main/PIX%20RPA%20Advanced%20Developer.jpg' style='width: 30%'></a><br>
-<a href='https://github.com/anmarkelova/anmarkelova/blob/main/Primo%20RPA%20Developer.pdf'><img src='https://github.com/anmarkelova/anmarkelova/blob/main/Primo%20RPA%20Developer.jpg' style='width: 30%'></a>
+<a href='https://github.com/anmarkelova/anmarkelova/blob/main/UiPath%20Certified%20Advanced%20RPA%20Developer%20v1.0%20certificate.jpg'><img src='https://github.com/anmarkelova/anmarkelova/blob/main/UiPath%20Certified%20Advanced%20RPA%20Developer%20v1.0%20certificate.jpg' style='width: 30%'></a><br>
+<a href='https://github.com/anmarkelova/anmarkelova/blob/main/PIX%20RPA%20Advanced%20Developer.jpg'><img src='https://github.com/anmarkelova/anmarkelova/blob/main/PIX%20RPA%20Advanced%20Developer.jpg' style='width: 30%'></a><br>
+<a href='https://github.com/anmarkelova/anmarkelova/blob/main/Primo%20RPA%20Developer.jpg'><img src='https://github.com/anmarkelova/anmarkelova/blob/main/Primo%20RPA%20Developer.jpg' style='width: 30%'></a>
